@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="welcome">Welcome</string>
+    <string name="Create_an_account_and_access_thousand_of_stuff">Create an account and access thousand of stuff</string>
+    <string name="getting_started">Getting Started</string>
+    <string name="log_in_now">Log In Now</string>
+    <string name="please_login_to_continue_using_our_app">please login to continue using our app</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="log_in">Log in</string>
+    <string name="or_connect_with">Or connect with</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="sign_in_now">Sign In Now</string>
+    <string name="please_fill_the_details_and_create_account">Please fill the details and create account</string>
+    <string name="full_name">Full Name</string>
+    <string name="password_must_be_atleast_8_characters_long">Password must be atleast 8 characters long</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="hobby">Hobby:</string>
+    <string name="gender">Gender:</string>
+    <string name="city">City:</string>
+    <string name="reading">reading</string>
+
+
+
+
+
+    <string name="selected_item">Selected item:</string>
+    <string name="please_select_atleast_one_hobby">Please select atleast one hobby</string>
+    <string name="button">Button</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="new_password">New password</string>
+    <string name="cancle">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="cancel">cancel</string>
+    <string name="show_data">show data</string>
+    <string name="female">Female</string>
+    <!--    spinner-->
+    <string-array name="Languages">
+
+            <item>Amreli</item>
+            <item>Ahmedabad</item>
+            <item>Surat</item>
+            <item>Junagadh</item>
+            <item>Bhavanagr</item>
+            <item>Rajakot</item>
+            <item>Jamanagar</item>
+            <item>Porbandar</item>
+            <item>Vadodara</item>
+        </string-array>
+
+
+</resources>

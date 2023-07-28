@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <resources>
+        <color android:name="clickedColor" tools:ignore="ExtraText">#ff4d66</color>
+        <color android:name="originalColor">#545252</color>
+</resources>
+</selector>
